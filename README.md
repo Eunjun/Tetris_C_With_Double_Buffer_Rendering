@@ -1,3 +1,3 @@
-# Tetris_C_With_Double_Buffer_Rendering
-Tetris in c with double buffer rendering
+# Tetris_C_With_Double_Buffering
+Tetris in c with double buffering
 
